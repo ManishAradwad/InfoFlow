@@ -30,7 +30,7 @@ Once InfoFlow is up and running, users can:
 
 ## To do:
 
-- [ ] Parse each page of website to the pdf.
+- [x] Parse each page of website to the pdf.
    - ~~Use pdfkit to parse the pdfs~~ pdfkit can only parse simpler websites, doesn't go well with modern websites
    - Use puppeteer to parse the websites with CSS/JS
 
