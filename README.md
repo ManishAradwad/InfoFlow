@@ -34,7 +34,7 @@ Once InfoFlow is up and running, users can:
    - ~~Use pdfkit to parse the pdfs~~ pdfkit can only parse simpler websites, doesn't go well with modern websites
    - Use puppeteer to parse the websites with CSS/JS
 
-- [ ] Use llamaindex to attach this pdf as a data source to a LLM
+- [x] Use llamaindex to attach this pdf as a data source to a LLM
 
 ## License
 
